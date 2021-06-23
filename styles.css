@@ -8,3 +8,18 @@ p {
   margin: 0;
   background: red;
 }
+
+#myParagraph {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#anotherSection p {
+  float: left;
+  margin-left: 10px;
+}
+
+.clear-it {
+  clear: both;
+}
